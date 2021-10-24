@@ -1,0 +1,13 @@
+aiofile==3.7.2
+aiohttp==3.7.4.post0
+async-timeout==3.0.1
+asyncio==3.4.3
+attrs==21.2.0
+caio==0.9.3
+chardet==4.0.0
+idna==3.3
+multidict==5.2.0
+peewee==3.14.4
+sitemap-generator==0.9.8
+typing-extensions==3.10.0.2
+yarl==1.7.0
